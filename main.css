@@ -38,7 +38,7 @@ img {
   height: auto;
 }
 .bg-img {
-  background: white url('https://images.pexels.com/photos/2113556/pexels-photo-2113556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940');
+  background: white url('https://images.pexels.com/photos/2113556/pexels-photo-2113556.jpeg');
   position: absolute;
   background-position: center;
   background-repeat: no-repeat;
